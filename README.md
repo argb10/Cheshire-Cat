@@ -1,4 +1,7 @@
 # Cheshire-Cat
+
+![alt text](https://github.com/argb10/Cheshire-Cat/blob/main/mad-hatter-tea-party-poster-alice.jpg)
+
 Hi kitty - Alice said.
 
 Hi, what are doing here little blondie? - said the cat.
